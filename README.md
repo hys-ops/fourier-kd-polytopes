@@ -22,4 +22,4 @@ hys-ops directed the research into whether reusable tests from earlier work coul
 
 ## Paper 3: Central Fourier KD positivity on nonabelian groups
 
-[Compact groups](https://hys-ops.github.io/fourier-kd-polytopes/paper-3/compact/) · [Countable discrete groups](https://hys-ops.github.io/fourier-kd-polytopes/paper-3/discrete/). Separate written classifications for the two stated classes; neither proof has Lean verification. General noncompact nondiscrete groups are outside these notes.
+[Compact groups](https://hys-ops.github.io/fourier-kd-polytopes/paper-3/compact/) · [Countable discrete groups](https://hys-ops.github.io/fourier-kd-polytopes/paper-3/discrete/). Separate written classifications for the two stated classes. The [compact verification page](https://hys-ops.github.io/fourier-kd-polytopes/paper-3/compact/#lean-verification) records Lean checks for SU(2) and PSU(2); the full compact classification is not yet formalized. General noncompact nondiscrete groups are outside these notes.

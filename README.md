@@ -19,3 +19,7 @@ hys-ops directed the research into whether reusable tests from earlier work coul
 ## Paper 2: Infinite-rank extreme states
 
 [Read Paper 2 and its six proof pages](https://hys-ops.github.io/fourier-kd-polytopes/paper-2/), including the full manuscript and Lean replay. Paper 2 asks when one extreme state can have infinite rank; it is distinct from the finite-dimensional classification above.
+
+## Paper 3: Central Fourier KD positivity on nonabelian groups
+
+[Compact groups](https://hys-ops.github.io/fourier-kd-polytopes/paper-3/compact/) · [Countable discrete groups](https://hys-ops.github.io/fourier-kd-polytopes/paper-3/discrete/). Separate written classifications for the two stated classes; neither proof has Lean verification. General noncompact nondiscrete groups are outside these notes.
